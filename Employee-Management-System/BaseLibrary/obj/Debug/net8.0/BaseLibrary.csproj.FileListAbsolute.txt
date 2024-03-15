@@ -1,0 +1,13 @@
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache

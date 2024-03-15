@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Td/TzLsgFFfIOjHfZeoeFK/1cXM092cPeRAUnju9ZIJ/Bg+a4eIZX6fRV4F31QmpJ9AZ1yLtKoDIvBT6ncksmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\BaseLibrary\\BaseLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catalina\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Catalina\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
