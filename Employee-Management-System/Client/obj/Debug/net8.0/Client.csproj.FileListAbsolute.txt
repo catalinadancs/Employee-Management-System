@@ -1,3 +1,4 @@
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.pdb
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.wasm
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
@@ -301,6 +302,7 @@ C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.Http.Json.wasm.gz
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
@@ -417,6 +419,7 @@ C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\Client.staticwebassets.runtime.json
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\Client.dll
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -628,6 +631,7 @@ C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -836,6 +840,7 @@ C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\scopedcss\bundle\Client.styles.css
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\scopedcss\projectbundle\Client.bundle.scp.css
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\compressed\kjmbz6jsow.gz
+C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\compressed\g3ftxsoo48.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\compressed\e4j69p4x7m.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\compressed\8y849d5yec.gz
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\compressed\8dvpppo7cj.gz
@@ -1048,8 +1053,3 @@ C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\refint\Client.dll
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\Client.pdb
 C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\ref\Client.dll
-C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
-C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
-C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
-C:\Users\Catalina\Desktop\Employee-Management-System\Employee-Management-System\Client\obj\Debug\net8.0\compressed\g3ftxsoo48.gz

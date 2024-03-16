@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46D04969-6988-49BA-A520-B44FA26B8684}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\serverlibrary\\data\\migrations\\20240315230734_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46D04969-6988-49BA-A520-B44FA26B8684}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\migrations\\20240315230734_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46D04969-6988-49BA-A520-B44FA26B8684}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\serverlibrary\\data\\migrations\\20240315230734_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46D04969-6988-49BA-A520-B44FA26B8684}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\migrations\\20240315230734_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B16FE36-CFD4-4133-AFCC-D7BE3E2D7005}|Server\\Server.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B16FE36-CFD4-4133-AFCC-D7BE3E2D7005}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B16FE36-CFD4-4133-AFCC-D7BE3E2D7005}|Server\\Server.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -17,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B16FE36-CFD4-4133-AFCC-D7BE3E2D7005}|Server\\Server.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B16FE36-CFD4-4133-AFCC-D7BE3E2D7005}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B16FE36-CFD4-4133-AFCC-D7BE3E2D7005}|Server\\Server.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B16FE36-CFD4-4133-AFCC-D7BE3E2D7005}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46D04969-6988-49BA-A520-B44FA26B8684}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{57903AB3-B50A-4821-B957-B52BB20B8389}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{57903AB3-B50A-4821-B957-B52BB20B8389}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D04969-6988-49BA-A520-B44FA26B8684}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\catalina\\desktop\\employee-management-system\\employee-management-system\\serverlibrary\\data\\migrations\\20240316130847_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D04969-6988-49BA-A520-B44FA26B8684}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\migrations\\20240316130847_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,49 +46,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240315230734_First.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\ServerLibrary\\Data\\Migrations\\20240315230734_First.Designer.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20240315230734_First.Designer.cs",
-              "ToolTip": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\ServerLibrary\\Data\\Migrations\\20240315230734_First.Designer.cs",
-              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20240315230734_First.Designer.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAtwBIAAAAgAAAA",
+              "DocumentIndex": 8,
+              "Title": "20240316130847_First.cs",
+              "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\ServerLibrary\\Data\\Migrations\\20240316130847_First.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20240316130847_First.cs",
+              "ToolTip": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\ServerLibrary\\Data\\Migrations\\20240316130847_First.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20240316130847_First.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T23:36:12.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T13:08:47.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Server.csproj",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\Server\\Server.csproj",
               "RelativeDocumentMoniker": "Server\\Server.csproj",
               "ToolTip": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\Server\\Server.csproj",
               "RelativeToolTip": "Server\\Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-15T23:08:06.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240315230734_First.cs",
-              "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\ServerLibrary\\Data\\Migrations\\20240315230734_First.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20240315230734_First.cs",
-              "ToolTip": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\ServerLibrary\\Data\\Migrations\\20240315230734_First.cs",
-              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20240315230734_First.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T23:07:35.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
@@ -104,19 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "Server\\appsettings.json",
               "ToolTip": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\Server\\appsettings.json",
               "RelativeToolTip": "Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-15T22:39:58.109Z"
+              "WhenOpened": "2024-03-15T22:39:58.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\ServerLibrary\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
@@ -128,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\BaseLibrary\\DTOs\\Register.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
@@ -140,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\BaseLibrary\\DTOs\\Login.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
@@ -152,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "AccountBase.cs",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\BaseLibrary\\DTOs\\AccountBase.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
@@ -164,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "BaseLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\Catalina\\Desktop\\Employee-Management-System\\Employee-Management-System\\BaseLibrary\\BaseLibrary.csproj",
               "RelativeDocumentMoniker": "BaseLibrary\\BaseLibrary.csproj",
