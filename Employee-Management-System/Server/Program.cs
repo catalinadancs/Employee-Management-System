@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ServerLibrary.Data;
+using ServerLibrary.Helpers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +18,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
         throw new InvalidOperationException("Sorry, your connection is not found."));
 }
 );
+
+builder.Services.Configure<JwtSection>(builder.Configuration.GetSection("JwtSection");
 
 var app = builder.Build();
 
