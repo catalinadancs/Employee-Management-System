@@ -1,11 +1,14 @@
 ﻿using BaseLibrary.DTOs;
+using BaseLibrary.Entities;
 using BaseLibrary.Responses;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using Microsoft.VisualBasic;
 using ServerLibrary.Data;
 using ServerLibrary.Helpers;
 using ServerLibrary.Repositories.Contracts;
+using Constants = ServerLibrary.Helpers.Constants;
 
 namespace ServerLibrary.Repositories.Implementations
 {
@@ -24,6 +27,26 @@ namespace ServerLibrary.Repositories.Implementations
                 Email = user.Email,
                 Password = BCrypt.Net.BCrypt.HashPassword(user.Password)
             });
+
+            //check, create and assing role
+            var checkAdminRole = await appDbContext.SystemRoles.FirstOrDefaultAsync(_ => _.Name!.Equals(Constants.Admin));
+            if(checkAdminRole is null)
+            {
+                var createAdminRole = await AddToDatabase(new SystemRole() { Name = Constants.Admin });
+                await AddToDatabase(new UserRole() { RoleId = createAdminRole.Id, UserId = applicationUser.Id });
+                return new GeneralResponse(true, "Account created!");
+            }
+
+            var checkUserRole = await appDbContext.SystemRoles.FirstOrDefaultAsync(_ => _.Name!.Equals(Constants.User));
+            SystemRole response = new();
+            if(checkUserRole is null) {
+                response = await AddToDatabase(new SystemRole() { Name= Constants.User });
+                await AddToDatabase(new UserRole() { RoleId = response.Id, UserId = applicationUser.Id });
+            } else
+            {
+                await AddToDatabase(new UserRole() { RoleId = checkUserRole.Id, UserId = applicationUser.Id });
+            }
+            return new GeneralResponse(true, "Account created!");
         }
 
         public Task<LoginResponse> SignInAsync(Login user)
@@ -33,5 +56,12 @@ namespace ServerLibrary.Repositories.Implementations
 
         private async Task<ApplicationUsers> FindUserByEmail(string email) =>
             await appDbContext.ApplicationUsers.FirstOrDefaultAsync(_ => _.Email!.ToLower()!.Equals(email.ToLower()));
+
+        private async Task<T> AddToDatabase<T>(T model)
+        {
+            var result = appDbContext.Add(model!);
+            await appDbContext.SaveChangesAsync();
+            return (T)result.Entity;
+        }
     }
 }
